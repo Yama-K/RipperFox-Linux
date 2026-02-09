@@ -1,0 +1,17 @@
+{
+  "autostart": false,
+  "show_log_window": false,
+  "default_dir": "downloads",
+  "default_args": "--recode-video mp4 --embed-thumbnail --embed-metadata",
+  "download_dirs": {
+    "*twitter.com*, *x.com*": {
+      "dir": "downloads/Twitter",
+      "args": "--recode-video mp4 --embed-thumbnail --embed-metadata"
+    },
+    "*youtube*, *youtu.be*": {
+      "dir": "downloads/Youtube",
+      "args": "--recode-video mp4 --embed-thumbnail --embed-metadata"
+    }
+  },
+  "show_toasts": false
+}
