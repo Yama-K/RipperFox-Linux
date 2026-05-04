@@ -8,7 +8,7 @@
 ### ⚙️ Installation
 
 =======
-### 1. Install the [RipperFox Extension by clicking me](https://github.com/Yama-K/RipperFoxExtension/releases/download/Release/RipperFox-2.1.xpi)
+### 1. Install the [RipperFox Extension by clicking me](https://github.com/Yama-K/RipperFoxExtension/releases/download/Release/ripperfox-signed.xpi))
 
 ### 2. Git clone this repo
 run python_install.sh then run run_launcher.sh
